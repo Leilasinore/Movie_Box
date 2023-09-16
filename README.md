@@ -1,8 +1,28 @@
-# React + Vite
+# React Project with Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React project bootstrapped using Vite, a fast build tool for JavaScript and React applications. Vite allows you to quickly set up and develop React applications with modern development features.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow these instructions to get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Node.js: Make sure you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Leilasinore/Movie_Box.git
+   
+2.cd to Movie_Box folder
+
+3.npm install
+
+4.npm run dev
+
+#This will start the development server, and you can view your application in your web browser at http://localhost:3000.
