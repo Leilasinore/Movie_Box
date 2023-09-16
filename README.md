@@ -1,7 +1,8 @@
 # React Project with Vite
 
 This is a simple React project bootstrapped using Vite, a fast build tool for JavaScript and React applications. Vite allows you to quickly set up and develop React applications with modern development features.
-
+It is a movie application that lets you view and search for top rated movies
+Check it out: https://6505bd93a20b4e21e28ee5a7--steady-stroopwafel-41d207.netlify.app/
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
